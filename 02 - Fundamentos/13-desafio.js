@@ -26,3 +26,9 @@ switch (diaSemana) {
   default:
     console.log("Número inválido! Digite de 1 a 7.");
 }
+
+//Desafio 2
+let num = 10;
+if (num >= 10 && num <= 20) {
+  console.log("O número está entre 10 e 20");
+}
